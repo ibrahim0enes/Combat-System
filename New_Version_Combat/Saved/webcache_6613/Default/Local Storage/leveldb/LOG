@@ -1,0 +1,40 @@
+2026/02/08-15:55:11.921 2d8 Reusing MANIFEST D:\UnrealEngine\Projeler\New_Version_Combat\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/08-15:55:11.966 2d8 Recovering log #75
+2026/02/08-15:55:11.966 2d8 Level-0 table #78: started
+2026/02/08-15:55:11.971 2d8 Level-0 table #78: 81103 bytes OK
+2026/02/08-15:55:11.988 2d8 Recovering log #77
+2026/02/08-15:55:11.989 2d8 Reusing old log D:\UnrealEngine\Projeler\New_Version_Combat\Saved\webcache_6613\Default\Local Storage\leveldb/000077.log 
+2026/02/08-15:55:11.992 2d8 Delete type=0 #75
+2026/02/08-16:10:19.512 68f4 Level-0 table #80: started
+2026/02/08-16:10:19.517 68f4 Level-0 table #80: 84794 bytes OK
+2026/02/08-16:10:19.518 68f4 Delete type=0 #77
+2026/02/08-16:10:19.518 68f4 Compacting 4@0 + 1@1 files
+2026/02/08-16:10:19.539 68f4 Generated table #81@0: 14 keys, 42968 bytes
+2026/02/08-16:10:19.539 68f4 Compacted 4@0 + 1@1 files => 42968 bytes
+2026/02/08-16:10:19.550 68f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/08-16:10:19.551 68f4 Delete type=2 #72
+2026/02/08-16:10:19.551 68f4 Delete type=2 #74
+2026/02/08-16:10:19.551 68f4 Delete type=2 #76
+2026/02/08-16:10:19.551 68f4 Delete type=2 #78
+2026/02/08-16:10:19.551 68f4 Delete type=2 #80
+2026/02/08-16:12:42.709 68f4 Level-0 table #83: started
+2026/02/08-16:12:42.713 68f4 Level-0 table #83: 80375 bytes OK
+2026/02/08-16:12:42.714 68f4 Delete type=0 #79
+2026/02/08-16:12:58.802 68f4 Level-0 table #85: started
+2026/02/08-16:12:58.805 68f4 Level-0 table #85: 80359 bytes OK
+2026/02/08-16:12:58.806 68f4 Delete type=0 #82
+2026/02/08-16:13:27.506 68f4 Level-0 table #87: started
+2026/02/08-16:13:27.510 68f4 Level-0 table #87: 80655 bytes OK
+2026/02/08-16:13:27.511 68f4 Delete type=0 #84
+2026/02/08-16:13:41.215 68f4 Level-0 table #89: started
+2026/02/08-16:13:41.219 68f4 Level-0 table #89: 81611 bytes OK
+2026/02/08-16:13:41.220 68f4 Delete type=0 #86
+2026/02/08-16:13:41.220 68f4 Compacting 4@0 + 1@1 files
+2026/02/08-16:13:41.224 68f4 Generated table #90@0: 14 keys, 43524 bytes
+2026/02/08-16:13:41.224 68f4 Compacted 4@0 + 1@1 files => 43524 bytes
+2026/02/08-16:13:41.224 68f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/08-16:13:41.225 68f4 Delete type=2 #81
+2026/02/08-16:13:41.225 68f4 Delete type=2 #83
+2026/02/08-16:13:41.225 68f4 Delete type=2 #85
+2026/02/08-16:13:41.225 68f4 Delete type=2 #87
+2026/02/08-16:13:41.225 68f4 Delete type=2 #89

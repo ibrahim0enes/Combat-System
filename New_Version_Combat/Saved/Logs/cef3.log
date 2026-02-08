@@ -1,0 +1,23 @@
+[7036:9320:0208/155510.718:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7036:14940:0208/155511.094:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7036:9320:0208/155511.262:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7036:9320:0208/155520.987:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[7036:9320:0208/155521.478:ERROR:device_event_log_impl.cc(196)] [15:55:21.429] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Eleman bulunamadı. (0x490)
+[3204:12868:0208/155522.549:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-A02AACCA9F2EBFD36F6AE6F2893DFF56 will be ignored
+[7036:3896:0208/155524.582:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[29080:5700:0208/155524.783:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-59F918292684F9E56503EB176E354ED0 will be ignored
+[29968:4828:0208/155524.868:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[7036:3896:0208/160220.212:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7036:14940:0208/161018.503:ERROR:cert_verify_proc_builtin.cc(1063)] CertVerifyProcBuiltin for o10593.ingest.us.sentry.io failed:
+----- Certificate i=0 (emailAddress=root@localhost.localdomain,CN=localhost.localdomain,OU=IT,O=MyCompany,L=Seattle,ST=WA,C=US) -----
+ERROR: No matching issuer found
+
+
+[28256:30088:0208/161018.521:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[29968:3904:0208/161238.192:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #474).
+[29968:3904:0208/161238.261:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #477).
+[29968:3904:0208/161238.328:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #480).
+[29968:3904:0208/161238.397:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #483).
+[29968:3904:0208/161250.412:VERBOSE1:video_capture_oracle.cc(250)] Client rejects proposal to capture frame (at #773).
+[28256:30088:0208/161302.439:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -202
+[28256:30088:0208/161304.924:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -101

@@ -1,0 +1,152 @@
+2026/02/07-16:47:05.467 5514 Reusing MANIFEST D:\UnrealEngine\Projeler\New_Version_Combat\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/07-16:47:05.678 5514 Recovering log #11
+2026/02/07-16:47:05.680 5514 Reusing old log D:\UnrealEngine\Projeler\New_Version_Combat\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
+2026/02/07-16:57:50.524 59b8 Level-0 table #15: started
+2026/02/07-16:57:50.528 59b8 Level-0 table #15: 61339 bytes OK
+2026/02/07-16:57:50.529 59b8 Delete type=0 #11
+2026/02/07-16:58:32.936 59b8 Level-0 table #17: started
+2026/02/07-16:58:32.941 59b8 Level-0 table #17: 63203 bytes OK
+2026/02/07-16:58:32.942 59b8 Delete type=0 #14
+2026/02/07-16:58:32.944 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-16:58:32.946 59b8 Generated table #18@0: 9 keys, 18380 bytes
+2026/02/07-16:58:32.947 59b8 Compacted 4@0 + 1@1 files => 18380 bytes
+2026/02/07-16:58:32.947 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-16:58:32.948 59b8 Delete type=2 #8
+2026/02/07-16:58:32.948 59b8 Delete type=2 #10
+2026/02/07-16:58:32.948 59b8 Delete type=2 #12
+2026/02/07-16:58:32.948 59b8 Delete type=2 #15
+2026/02/07-16:58:32.948 59b8 Delete type=2 #17
+2026/02/07-16:59:41.177 59b8 Level-0 table #20: started
+2026/02/07-16:59:41.180 59b8 Level-0 table #20: 70718 bytes OK
+2026/02/07-16:59:41.181 59b8 Delete type=0 #16
+2026/02/07-17:02:20.608 59b8 Level-0 table #22: started
+2026/02/07-17:02:20.611 59b8 Level-0 table #22: 84800 bytes OK
+2026/02/07-17:02:20.612 59b8 Delete type=0 #19
+2026/02/07-17:31:30.907 59b8 Level-0 table #24: started
+2026/02/07-17:31:30.910 59b8 Level-0 table #24: 80646 bytes OK
+2026/02/07-17:31:30.912 59b8 Delete type=0 #21
+2026/02/07-17:32:22.251 59b8 Level-0 table #26: started
+2026/02/07-17:32:22.254 59b8 Level-0 table #26: 84770 bytes OK
+2026/02/07-17:32:22.255 59b8 Delete type=0 #23
+2026/02/07-17:32:22.255 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-17:32:22.400 59b8 Generated table #27@0: 13 keys, 30800 bytes
+2026/02/07-17:32:22.400 59b8 Compacted 4@0 + 1@1 files => 30800 bytes
+2026/02/07-17:32:22.401 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-17:32:22.401 59b8 Delete type=2 #18
+2026/02/07-17:32:22.402 59b8 Delete type=2 #20
+2026/02/07-17:32:22.402 59b8 Delete type=2 #22
+2026/02/07-17:32:22.402 59b8 Delete type=2 #24
+2026/02/07-17:32:22.402 59b8 Delete type=2 #26
+2026/02/07-17:35:58.854 59b8 Level-0 table #29: started
+2026/02/07-17:35:58.858 59b8 Level-0 table #29: 87078 bytes OK
+2026/02/07-17:35:58.859 59b8 Delete type=0 #25
+2026/02/07-17:40:03.394 59b8 Level-0 table #31: started
+2026/02/07-17:40:03.398 59b8 Level-0 table #31: 88129 bytes OK
+2026/02/07-17:40:03.399 59b8 Delete type=0 #28
+2026/02/07-17:40:47.237 59b8 Level-0 table #33: started
+2026/02/07-17:40:47.240 59b8 Level-0 table #33: 90082 bytes OK
+2026/02/07-17:40:47.241 59b8 Delete type=0 #30
+2026/02/07-17:49:00.095 59b8 Level-0 table #35: started
+2026/02/07-17:49:00.099 59b8 Level-0 table #35: 91606 bytes OK
+2026/02/07-17:49:00.100 59b8 Delete type=0 #32
+2026/02/07-17:49:00.101 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-17:49:00.106 59b8 Generated table #36@0: 13 keys, 33012 bytes
+2026/02/07-17:49:00.106 59b8 Compacted 4@0 + 1@1 files => 33012 bytes
+2026/02/07-17:49:00.106 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-17:49:00.107 59b8 Delete type=2 #27
+2026/02/07-17:49:00.107 59b8 Delete type=2 #29
+2026/02/07-17:49:00.107 59b8 Delete type=2 #31
+2026/02/07-17:49:00.107 59b8 Delete type=2 #33
+2026/02/07-17:49:00.107 59b8 Delete type=2 #35
+2026/02/07-17:50:30.147 59b8 Level-0 table #38: started
+2026/02/07-17:50:30.171 59b8 Level-0 table #38: 62291 bytes OK
+2026/02/07-17:50:30.172 59b8 Delete type=0 #34
+2026/02/07-17:51:15.819 59b8 Level-0 table #40: started
+2026/02/07-17:51:15.825 59b8 Level-0 table #40: 62699 bytes OK
+2026/02/07-17:51:15.826 59b8 Delete type=0 #37
+2026/02/07-17:51:25.855 59b8 Level-0 table #42: started
+2026/02/07-17:51:25.859 59b8 Level-0 table #42: 64572 bytes OK
+2026/02/07-17:51:25.860 59b8 Delete type=0 #39
+2026/02/07-17:51:37.235 59b8 Level-0 table #44: started
+2026/02/07-17:51:37.240 59b8 Level-0 table #44: 65863 bytes OK
+2026/02/07-17:51:37.241 59b8 Delete type=0 #41
+2026/02/07-17:51:37.242 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-17:51:37.245 59b8 Generated table #45@0: 14 keys, 35384 bytes
+2026/02/07-17:51:37.246 59b8 Compacted 4@0 + 1@1 files => 35384 bytes
+2026/02/07-17:51:37.246 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-17:51:37.247 59b8 Delete type=2 #36
+2026/02/07-17:51:37.247 59b8 Delete type=2 #38
+2026/02/07-17:51:37.247 59b8 Delete type=2 #40
+2026/02/07-17:51:37.247 59b8 Delete type=2 #42
+2026/02/07-17:51:37.247 59b8 Delete type=2 #44
+2026/02/07-17:51:47.944 59b8 Level-0 table #47: started
+2026/02/07-17:51:47.948 59b8 Level-0 table #47: 67682 bytes OK
+2026/02/07-17:51:47.950 59b8 Delete type=0 #43
+2026/02/07-17:52:16.373 59b8 Level-0 table #49: started
+2026/02/07-17:52:16.377 59b8 Level-0 table #49: 68887 bytes OK
+2026/02/07-17:52:16.379 59b8 Delete type=0 #46
+2026/02/07-17:52:29.974 59b8 Level-0 table #51: started
+2026/02/07-17:52:29.981 59b8 Level-0 table #51: 70275 bytes OK
+2026/02/07-17:52:29.982 59b8 Delete type=0 #48
+2026/02/07-17:52:45.237 59b8 Level-0 table #53: started
+2026/02/07-17:52:45.241 59b8 Level-0 table #53: 72095 bytes OK
+2026/02/07-17:52:45.242 59b8 Delete type=0 #50
+2026/02/07-17:52:45.242 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-17:52:45.246 59b8 Generated table #54@0: 14 keys, 38548 bytes
+2026/02/07-17:52:45.246 59b8 Compacted 4@0 + 1@1 files => 38548 bytes
+2026/02/07-17:52:45.247 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-17:52:45.247 59b8 Delete type=2 #45
+2026/02/07-17:52:45.247 59b8 Delete type=2 #47
+2026/02/07-17:52:45.247 59b8 Delete type=2 #49
+2026/02/07-17:52:45.247 59b8 Delete type=2 #51
+2026/02/07-17:52:45.248 59b8 Delete type=2 #53
+2026/02/07-17:54:06.821 59b8 Level-0 table #56: started
+2026/02/07-17:54:06.827 59b8 Level-0 table #56: 73683 bytes OK
+2026/02/07-17:54:06.828 59b8 Delete type=0 #52
+2026/02/07-19:22:36.516 59b8 Level-0 table #58: started
+2026/02/07-19:22:36.535 59b8 Level-0 table #58: 75043 bytes OK
+2026/02/07-19:22:36.537 59b8 Delete type=0 #55
+2026/02/07-19:23:45.951 59b8 Level-0 table #60: started
+2026/02/07-19:23:45.954 59b8 Level-0 table #60: 75943 bytes OK
+2026/02/07-19:23:45.955 59b8 Delete type=0 #57
+2026/02/07-19:26:26.944 59b8 Level-0 table #62: started
+2026/02/07-19:26:26.947 59b8 Level-0 table #62: 76351 bytes OK
+2026/02/07-19:26:26.948 59b8 Delete type=0 #59
+2026/02/07-19:26:26.948 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-19:26:27.003 59b8 Generated table #63@0: 14 keys, 40528 bytes
+2026/02/07-19:26:27.003 59b8 Compacted 4@0 + 1@1 files => 40528 bytes
+2026/02/07-19:26:27.006 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-19:26:27.006 59b8 Delete type=2 #54
+2026/02/07-19:26:27.006 59b8 Delete type=2 #56
+2026/02/07-19:26:27.006 59b8 Delete type=2 #58
+2026/02/07-19:26:27.006 59b8 Delete type=2 #60
+2026/02/07-19:26:27.006 59b8 Delete type=2 #62
+2026/02/07-19:41:51.679 59b8 Level-0 table #65: started
+2026/02/07-19:41:51.686 59b8 Level-0 table #65: 77307 bytes OK
+2026/02/07-19:41:51.688 59b8 Delete type=0 #61
+2026/02/07-19:49:50.393 59b8 Level-0 table #67: started
+2026/02/07-19:49:50.401 59b8 Level-0 table #67: 78539 bytes OK
+2026/02/07-19:49:50.402 59b8 Delete type=0 #64
+2026/02/07-19:50:20.195 59b8 Level-0 table #69: started
+2026/02/07-19:50:20.201 59b8 Level-0 table #69: 79787 bytes OK
+2026/02/07-19:50:20.202 59b8 Delete type=0 #66
+2026/02/07-19:51:34.655 59b8 Level-0 table #71: started
+2026/02/07-19:51:34.659 59b8 Level-0 table #71: 79911 bytes OK
+2026/02/07-19:51:34.661 59b8 Delete type=0 #68
+2026/02/07-19:51:34.661 59b8 Compacting 4@0 + 1@1 files
+2026/02/07-19:51:34.687 59b8 Generated table #72@0: 14 keys, 42376 bytes
+2026/02/07-19:51:34.687 59b8 Compacted 4@0 + 1@1 files => 42376 bytes
+2026/02/07-19:51:34.687 59b8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/07-19:51:34.688 59b8 Delete type=2 #63
+2026/02/07-19:51:34.688 59b8 Delete type=2 #65
+2026/02/07-19:51:34.688 59b8 Delete type=2 #67
+2026/02/07-19:51:34.688 59b8 Delete type=2 #69
+2026/02/07-19:51:34.688 59b8 Delete type=2 #71
+2026/02/07-19:51:55.578 59b8 Level-0 table #74: started
+2026/02/07-19:51:55.583 59b8 Level-0 table #74: 80971 bytes OK
+2026/02/07-19:51:55.587 59b8 Delete type=0 #70
+2026/02/07-19:52:06.919 59b8 Level-0 table #76: started
+2026/02/07-19:52:06.923 59b8 Level-0 table #76: 81371 bytes OK
+2026/02/07-19:52:06.925 59b8 Delete type=0 #73
+2026/02/07-21:00:42.377 7688 Level-0 table #78: started
+2026/02/07-21:00:42.401 7688 Level-0 table #78: 81103 bytes OK
