@@ -1,3 +1,11 @@
+Aşağıda **tamamen profesyonel**, **görsel ağırlıklı**, **linkleri ikon/badge olarak gösteren**, **GitHub vitrinine uygun** bir **README.md** veriyorum.
+Bu yapı **recruiter**, **senior dev** ve **community** standartlarına uygundur.
+
+👉 **Direkt `README.md` olarak kopyala–yapıştır.**
+
+---
+
+````md
 # ⚔️ Medieval Combat System | Unreal Engine 5.7
 
 <p align="center">
@@ -63,3 +71,93 @@ Media/
  ├─ target_system.png
  ├─ sword_combat.png
  └─ niagara_vfx.png
+````
+
+Example usage:
+
+```md
+![Combat Showcase](Media/combat_showcase.gif)
+```
+
+---
+
+## 🎯 Design Goals
+
+* Clear and readable combat feedback
+* Animation-driven gameplay flow
+* Modular and extendable system design
+* Suitable as a base for **Action**, **RPG**, or **Souls-like** combat systems
+
+---
+
+## 🛠️ Technical Details
+
+| Category   | Details                             |
+| ---------- | ----------------------------------- |
+| Engine     | Unreal Engine 5.7                   |
+| Core Logic | Blueprint-based systems             |
+| Animation  | Animation Montages & State Machines |
+| VFX        | Niagara Particle System             |
+| Audio      | Gameplay-synchronized sound cues    |
+| AI         | ❌ Not implemented                   |
+
+---
+
+## 📌 Project Status
+
+This project is currently an **early-stage combat framework** and **technical showcase**.
+It is not production-ready out of the box but provides a strong foundation for future expansion.
+
+Planned future extensions may include:
+
+* AI combat behaviors
+* Combo systems
+* Abilities / skills
+* Multiplayer adaptation
+
+---
+
+## 📂 Usage
+
+This repository is intended for:
+
+* 📖 Learning & reference
+* 💼 Portfolio demonstration
+* 🧪 Combat system experimentation
+
+Please review the license before reusing any part of the project.
+
+---
+
+## 👤 Author
+
+**İbrahim Enes Çolak**
+Game Developer | Unreal Engine
+
+🌐 Website: [https://ibrahimenescolak.com/](https://ibrahimenescolak.com/)
+💼 LinkedIn: [https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316](https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316)
+
+---
+
+## 📄 License
+
+This project is shared for **educational and showcase purposes**.
+See the `LICENSE` file for more details.
+
+```
+
+---
+
+### ✅ Bu README neden güçlü?
+- ✔️ İlk ekranda **linkli görsel badge’ler**
+- ✔️ YouTube video **thumbnail ile**
+- ✔️ Recruiter’ların sevdiği **net başlık + tablo**
+- ✔️ Görsel eklemeye hazır yapı
+
+İstersen bir sonraki adımda:
+- ⭐ **GitHub Stars artıran versiyon**
+- 🎯 **Recruiter Quick Scan (30 saniyelik özet)**
+- 🧠 **Combat architecture diagram açıklaması**
+
+hazırlayabilirim.
+```
