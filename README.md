@@ -27,6 +27,8 @@ The project focuses on **clean combat logic, readable feedback, and scalability*
 
 ---
 
+![Gif Medieval](https://github.com/user-attachments/assets/5292ba6c-1533-43a2-98b0-7c46270b6976)
+
 ## 🎯 Features
 
 - 🎯 Target / Lock-On System  
@@ -142,3 +144,9 @@ For collaboration or usage inquiries, please reach out via LinkedIn.
 ---
 
 *Developed by **İbrahim Enes Çolak***  
+
+
+<img width="1280" height="720" alt="Medival Combat Sysetm" src="https://github.com/user-attachments/assets/67f2f3dc-2cb7-45dc-a63d-da3cbe4e96ab" />
+
+
+
