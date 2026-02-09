@@ -1,163 +1,144 @@
-Aşağıda **tamamen profesyonel**, **görsel ağırlıklı**, **linkleri ikon/badge olarak gösteren**, **GitHub vitrinine uygun** bir **README.md** veriyorum.
-Bu yapı **recruiter**, **senior dev** ve **community** standartlarına uygundur.
-
-👉 **Direkt `README.md` olarak kopyala–yapıştır.**
-
----
-
-````md
-# ⚔️ Medieval Combat System | Unreal Engine 5.7
+# ⚔️ Medieval Combat System Showcase (UE 5.7)
 
 <p align="center">
-  <a href="https://github.com/ibrahim0enes">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  <a href="https://youtu.be/3ipiNfA0RmI">
+    <img src="https://img.shields.io/badge/YouTube-Showcase-red?style=for-the-badge&logo=youtube" />
   </a>
   <a href="https://ibrahimenescolak.com/">
     <img src="https://img.shields.io/badge/Website-Portfolio-blue?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://youtu.be/3ipiNfA0RmI">
-    <img src="https://img.shields.io/badge/YouTube-Gameplay%20Showcase-red?style=for-the-badge&logo=youtube" />
-  </a>
-</p>
-
----
-
-## 🎮 Overview
-
-A **modular medieval combat system** developed in **Unreal Engine 5.7**, designed as a **clean, readable, and scalable combat foundation** for action and RPG-style games.
-
-This project focuses on **animation-driven combat**, **gameplay clarity**, and **system extensibility** rather than a scripted or cinematic-only demo.
-
-> ❗ AI systems are **not implemented** at this stage.
-
----
-
-## ✨ Key Features
-
-- 🎯 **Target / Lock-On System**  
-- 🤺 **Dual Combat Modes**
-  - Hand-to-hand combat  
-  - Sword combat  
-- 🧭 **Directional Damage & Hit Reactions**
-  - Front / Back impact detection  
-- ✨ **Niagara VFX Integration**
-- 🔊 **Synchronized Audio Feedback**
-- 🧩 **Clean, Modular Blueprint Architecture**
-
----
-
-## 🎥 Gameplay Showcase
-
-<p align="center">
-  <a href="https://youtu.be/3ipiNfA0RmI">
-    <img src="https://img.youtube.com/vi/3ipiNfA0RmI/maxresdefault.jpg" />
+  <a href="https://github.com/ibrahim0enes">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-> Click the image to watch the full gameplay showcase on YouTube.
+---
+
+## 📌 Overview
+
+This repository showcases a **medieval-themed combat system** developed in **Unreal Engine 5.7**.  
+The project focuses on **clean combat logic, readable feedback, and scalability**, serving as a strong foundation for **action-oriented and RPG-style games**.
+
+> ⚠️ **AI systems are not included yet.**  
+> This showcase is focused on **player-side combat mechanics and presentation**.
 
 ---
 
-## 🖼️ Screenshots
+## 🎯 Features
 
-> Add images to a `Media/` folder and reference them here.
-
-```text
-Media/
- ├─ combat_showcase.gif
- ├─ target_system.png
- ├─ sword_combat.png
- └─ niagara_vfx.png
-````
-
-Example usage:
-
-```md
-![Combat Showcase](Media/combat_showcase.gif)
-```
+- 🎯 Target / Lock-On System  
+- ⚔️ Dual Combat Modes  
+  - Hand-to-Hand Combat  
+  - Sword Combat  
+- 🧭 Directional Damage System  
+  - Front / Back hit detection  
+  - Direction-based hit reactions  
+- ✨ Niagara VFX Integration  
+- 🔊 Synchronized Combat Audio  
+- 🎥 Cinematic-friendly showcase setup  
 
 ---
 
-## 🎯 Design Goals
+## 🧠 Design Goals
 
-* Clear and readable combat feedback
-* Animation-driven gameplay flow
-* Modular and extendable system design
-* Suitable as a base for **Action**, **RPG**, or **Souls-like** combat systems
-
----
-
-## 🛠️ Technical Details
-
-| Category   | Details                             |
-| ---------- | ----------------------------------- |
-| Engine     | Unreal Engine 5.7                   |
-| Core Logic | Blueprint-based systems             |
-| Animation  | Animation Montages & State Machines |
-| VFX        | Niagara Particle System             |
-| Audio      | Gameplay-synchronized sound cues    |
-| AI         | ❌ Not implemented                   |
+- **Readable combat feedback** (clear hits, reactions, and impact)
+- **Modular and extensible architecture**
+- **Animation-aligned positioning** for melee interactions
+- **Scalable system design** (AI & multiplayer-ready in future)
+- **Showcase-quality presentation** for portfolios and evaluations
 
 ---
 
-## 📌 Project Status
+## ⚙️ Technical Details
 
-This project is currently an **early-stage combat framework** and **technical showcase**.
-It is not production-ready out of the box but provides a strong foundation for future expansion.
-
-Planned future extensions may include:
-
-* AI combat behaviors
-* Combo systems
-* Abilities / skills
-* Multiplayer adaptation
+- **Engine:** Unreal Engine 5.7  
+- **Framework:** Blueprint-based (C++ ready architecture)  
+- **VFX:** Niagara Particle System  
+- **Animation:** Root motion & direction-aware hit reactions  
+- **Input Handling:** Combat-mode–aware input logic  
+- **Audio:** Context-sensitive SFX triggering  
 
 ---
 
-## 📂 Usage
+## 📦 Usage
 
 This repository is intended for:
 
-* 📖 Learning & reference
-* 💼 Portfolio demonstration
-* 🧪 Combat system experimentation
+- 🎮 Game developers exploring **melee combat system design**
+- 📚 Learning **UE5 combat architecture & logic flow**
+- 💼 Portfolio review by recruiters and studios
+- 🧪 Base system for further expansion (AI, multiplayer, abilities)
 
-Please review the license before reusing any part of the project.
+> **Not a plug-and-play asset.**  
+> Designed as a **reference implementation and showcase**.
 
 ---
 
-## 👤 Author
+## 📊 Project Status
 
-**İbrahim Enes Çolak**
-Game Developer | Unreal Engine
+| Feature | Status |
+|------|------|
+| Core Combat Logic | ✅ Completed |
+| Target System | ✅ Completed |
+| Directional Hit System | ✅ Completed |
+| VFX & Audio | ✅ Completed |
+| AI Integration | ❌ Not started |
+| Multiplayer | ❌ Not started |
+| Optimization Pass | 🔄 Planned |
 
-🌐 Website: [https://ibrahimenescolak.com/](https://ibrahimenescolak.com/)
-💼 LinkedIn: [https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316](https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316)
+---
+
+## ❓ Why This Repository?
+
+- Demonstrates **real-world UE5 combat system design**
+- Shows **clean Blueprint architecture**
+- Focuses on **feel, readability, and feedback**
+- Built with **production mindset**, not tutorial logic
+- Suitable for **technical evaluation and feedback**
+
+---
+
+## 🧑‍💼 Recruiter Quick Scan (30 Seconds)
+
+- **Engine:** Unreal Engine 5.7  
+- **Focus:** Combat systems & gameplay programming  
+- **Skills Demonstrated:**  
+  - Gameplay logic  
+  - Combat architecture  
+  - Animation coordination  
+  - VFX & audio integration  
+- **Role Fit:** Gameplay Programmer / Technical Designer / UE Developer  
+- **Current Scope:** Player combat (AI planned)
+
+▶ **Video Showcase:**  
+https://youtu.be/3ipiNfA0RmI
+
+▶ **Portfolio Website:**  
+https://ibrahimenescolak.com/
 
 ---
 
 ## 📄 License
 
-This project is shared for **educational and showcase purposes**.
-See the `LICENSE` file for more details.
+This project is shared for **educational and portfolio demonstration purposes**.
 
-```
+- ❌ Not permitted for commercial redistribution  
+- ❌ Not allowed to be sold or re-uploaded as-is  
+- ✅ Allowed for learning, evaluation, and inspiration  
+
+For collaboration or usage inquiries, please reach out via LinkedIn.
 
 ---
 
-### ✅ Bu README neden güçlü?
-- ✔️ İlk ekranda **linkli görsel badge’ler**
-- ✔️ YouTube video **thumbnail ile**
-- ✔️ Recruiter’ların sevdiği **net başlık + tablo**
-- ✔️ Görsel eklemeye hazır yapı
+## 📬 Contact
 
-İstersen bir sonraki adımda:
-- ⭐ **GitHub Stars artıran versiyon**
-- 🎯 **Recruiter Quick Scan (30 saniyelik özet)**
-- 🧠 **Combat architecture diagram açıklaması**
+- **Website:** https://ibrahimenescolak.com/  
+- **LinkedIn:** https://www.linkedin.com/in/ibrahim-enes-çolak-b18327316  
+- **GitHub:** https://github.com/ibrahim0enes  
 
-hazırlayabilirim.
-```
+---
+
+*Developed by **İbrahim Enes Çolak***  
