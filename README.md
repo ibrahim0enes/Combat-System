@@ -27,7 +27,9 @@ The project focuses on **clean combat logic, readable feedback, and scalability*
 
 ---
 
-![Gif Medieval](https://github.com/user-attachments/assets/5292ba6c-1533-43a2-98b0-7c46270b6976)  ![Punch Gif Medival](https://github.com/user-attachments/assets/a424f865-c46a-446e-8a19-2db9a924e91b)
+![Full Showcase ](https://github.com/user-attachments/assets/509d70bd-e1a2-422f-8a0f-818f6a038699) ![Full Showcase  (1)](https://github.com/user-attachments/assets/ffd42619-dc53-4f4b-8b4e-734c4d1127a2)
+
+
 
 
 ## 🎯 Features
